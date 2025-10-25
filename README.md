@@ -17,8 +17,8 @@ A fully functional blog platform with:
 - ✅ PostgreSQL database + SQLAlchemy ORM
 - ✅ Deployed live on Render
 
-🔗 **GitHub Repo:** https://github.com/dilshadparambil/Python_Personal.blog  
-🌍 **Live Demo:** https://personal-blog-l8cb.onrender.com (if still hosted)
+🔗 [**GitHub Repo**](https://github.com/dilshadparambil/Python_Personal.blog)  
+🌍 [**Live Demo**](https://personal-blog-l8cb.onrender.com)
 
 ---
 
@@ -29,8 +29,7 @@ An automation tool that:
 - ✅ Integrates **Google Sheets as database**
 - ✅ Automatically notifies users when prices drop
 
-🔗 **GitHub Repo:**  
-https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/3_Intermediate_Plus/d40
+🔗 [**GitHub Repo**](https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/3_Intermediate_Plus/d40)
 
 ---
 
@@ -41,8 +40,7 @@ A RESTful API to find and manage cafés with Wi-Fi:
 - ✅ Built using **Flask, SQLAlchemy**
 - ✅ Tested & documented with **Postman**
 
-🔗 **GitHub Repo:**  
-https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/4_Advanced/d66
+🔗 [**GitHub Repo**](https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/4_Advanced/d66)
 
 ---
 
@@ -52,8 +50,7 @@ Analysed developer survey data to visualize:
 - ✅ Salary vs experience trends
 - ✅ Growth of languages over time using **Pandas + Matplotlib**
 
-🔗 **GitHub Repo:**  
-https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/4_Advanced/d73
+🔗 [**GitHub Repo**](https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/4_Advanced/d73)
 
 ---
 
@@ -63,8 +60,7 @@ A Python tool that:
 - ✅ Authenticates with **Spotify API + OAuth**
 - ✅ Creates a Spotify playlist automatically with scraped songs
 
-🔗 **GitHub Repo:**  
-https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/3_Intermediate_Plus/d46
+🔗 [**GitHub Repo**](https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/3_Intermediate_Plus/d46)
 
 ---
 
@@ -88,11 +84,8 @@ https://github.com/dilshadparambil/Python_100.days.of.code/tree/main/3_Intermedi
 
 ## 📬 **Contact**
 
-| Platform     | Link |
-|--------------|------|
-| **GitHub**    | https://github.com/dilshadparambil |
-| **LinkedIn**  | https://www.linkedin.com/in/dilshad-p1/ |
-| **Email**     | dilshadkareemparambil@gmail.com |
+[**LinkedIn**](https://www.linkedin.com/in/dilshad-p1/)  
+[**Email**](dilshadkareemparambil@gmail.com)
 
 ---
 
